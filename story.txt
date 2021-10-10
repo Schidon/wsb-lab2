@@ -1,9 +1,5 @@
 Oto nasza wspólna historia
-<<<<<<< HEAD
-=======
 Za górami, za lasami
-<<<<<<< HEAD
->>>>>>> 03f68efb25c521b275ba963abb5765311ddc23ea
-=======
 za dolinami, siedzi góral
->>>>>>> f34a828aea53f3db53361b27105e77ffd75a5964
+zyla sobie ktos tam
+
