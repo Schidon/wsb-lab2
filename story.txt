@@ -1,1 +1,5 @@
 Oto nasza wspólna historia
+<<<<<<< HEAD
+=======
+Za górami, za lasami
+>>>>>>> 03f68efb25c521b275ba963abb5765311ddc23ea
