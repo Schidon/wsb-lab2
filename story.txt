@@ -1,5 +1,5 @@
 Oto nasza wspólna historia
-Za górami, za lasami
+Za górami,
 za dolinami, siedzi góral
 zyla sobie ktos tam
 
@@ -8,3 +8,4 @@ bo ktoś go
 
 Moja nowa historia jest taka sama 
 ale lepsza
+Mi pasuje ta lepsza-ostatnia, usuwam jedynie za lasami
